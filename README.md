@@ -1,3 +1,5 @@
+I made this while i sucked dont judge the code
+
 **DISCORD MASS DELETER**
 
 Instructions:
